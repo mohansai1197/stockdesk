@@ -1,0 +1,33 @@
+{
+  "synthetic": true,
+  "seed": 20261017,
+  "start": "2026-08-19",
+  "end": "2026-10-17",
+  "counts": {
+    "products": 50,
+    "suppliers": 8,
+    "locations": 3,
+    "sales": 240,
+    "sale_items": 716,
+    "purchase_orders": 30,
+    "returns": 24,
+    "transfers": 20
+  },
+  "current_month": {
+    "gross_revenue_paise": 9343400,
+    "refund_paise": 253200,
+    "revenue_paise": 9090200,
+    "cost_of_goods_paise": 5732090,
+    "gross_profit_paise": 3358110
+  },
+  "full_period": {
+    "gross_revenue_paise": 39201300,
+    "refund_paise": 778200,
+    "revenue_paise": 38423100,
+    "cost_of_goods_paise": 24320042,
+    "gross_profit_paise": 14103058
+  },
+  "received_purchases": 24,
+  "pending_purchases": 6,
+  "low_stock_products": 5
+}

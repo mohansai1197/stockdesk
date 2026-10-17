@@ -1,0 +1,6 @@
+Item Code,Product Name,Department,Sell Price,Buy Price,Available,Reorder At
+UPLOAD-ERR-201,Sample Graph Pad,Stationery,89.00,50.00,15,3
+UPLOAD-ERR-202,Sample Felt Pen,Stationery,not-a-price,20.00,20,4
+UPLOAD-ERR-203,Sample Cork Mat,Home,149.00,80.00,12,3
+UPLOAD-ERR-204,Sample Utility Clip,Everyday,59.00,30.00,-4,2
+UPLOAD-ERR-205,Sample Gift Pouch,Everyday,99.00,55.00,10,2

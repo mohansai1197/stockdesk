@@ -1,0 +1,51 @@
+sku,name,category,price,cost,stock,low_stock_at
+STA-001,A5 Ruled Notebook,Stationery,85.00,52.70,283,18
+STA-002,A4 Spiral Notebook,Stationery,149.00,84.93,346,18
+STA-003,Blue Gel Pen Pack,Stationery,99.00,69.30,354,18
+STA-004,Black Rollerball Pen,Stationery,35.00,20.65,335,18
+STA-005,HB Pencil Pack,Stationery,60.00,33.60,26,12
+STA-006,Highlighter Set,Stationery,129.00,76.11,293,18
+STA-007,Sticky Note Pad,Stationery,49.00,30.38,300,18
+STA-008,Document Folder,Stationery,75.00,40.50,257,18
+STA-009,Drawing Sketchbook,Stationery,199.00,111.44,331,18
+STA-010,Desk Planner,Stationery,249.00,164.34,321,18
+HOM-001,Ceramic Coffee Mug,Home,199.00,131.34,300,18
+HOM-002,Glass Storage Jar,Home,249.00,156.87,305,18
+HOM-003,Cotton Hand Towel,Home,149.00,95.36,303,18
+HOM-004,Coaster Set,Home,179.00,100.24,267,18
+HOM-005,Mini Desk Planter,Home,299.00,200.33,26,12
+HOM-006,LED Table Lamp,Home,899.00,593.34,271,18
+HOM-007,Storage Basket,Home,349.00,219.87,291,18
+HOM-008,Scented Candle,Home,229.00,155.72,265,18
+HOM-009,Photo Frame,Home,279.00,150.66,326,18
+HOM-010,Wooden Serving Tray,Home,549.00,356.85,241,18
+EVE-001,Steel Water Bottle,Everyday,449.00,296.34,274,18
+EVE-002,Canvas Tote Bag,Everyday,249.00,171.81,291,18
+EVE-003,Lunch Box,Everyday,399.00,239.40,326,18
+EVE-004,Travel Umbrella,Everyday,499.00,274.45,283,18
+EVE-005,Reusable Shopping Bag,Everyday,79.00,44.24,26,12
+EVE-006,Travel Coffee Tumbler,Everyday,599.00,353.41,325,18
+EVE-007,Pocket Tissue Pack,Everyday,35.00,19.60,268,18
+EVE-008,Cotton Face Towel,Everyday,99.00,69.30,252,18
+EVE-009,Small Utility Pouch,Everyday,179.00,102.03,240,18
+EVE-010,Rain Poncho,Everyday,199.00,113.43,332,18
+OFF-001,Desktop Organizer,Office,349.00,219.87,316,18
+OFF-002,Stapler,Office,149.00,102.81,289,18
+OFF-003,Staple Pin Box,Office,39.00,26.52,342,18
+OFF-004,Binder Clip Set,Office,69.00,46.23,297,18
+OFF-005,Paper Clip Box,Office,29.00,15.66,26,12
+OFF-006,Clear Tape Roll,Office,45.00,31.05,296,18
+OFF-007,Packing Tape Roll,Office,79.00,45.82,305,18
+OFF-008,Scissors,Office,129.00,81.27,224,18
+OFF-009,Desk Calculator,Office,499.00,339.32,281,18
+OFF-010,Whiteboard Marker Set,Office,159.00,104.94,278,18
+ACC-001,USB-C Charging Cable,Accessories,299.00,164.45,330,18
+ACC-002,Phone Stand,Accessories,199.00,137.31,311,18
+ACC-003,Mouse Pad,Accessories,149.00,102.81,283,18
+ACC-004,Cable Organizer Set,Accessories,99.00,69.30,320,18
+ACC-005,Key Ring,Accessories,59.00,39.53,26,12
+ACC-006,Laptop Sleeve,Accessories,699.00,454.35,337,18
+ACC-007,Screen Cleaning Kit,Accessories,179.00,123.51,301,18
+ACC-008,Luggage Tag,Accessories,129.00,83.85,345,18
+ACC-009,Card Holder,Accessories,249.00,174.30,304,18
+ACC-010,Earphone Storage Case,Accessories,149.00,93.87,268,18

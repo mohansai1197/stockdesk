@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Inventory, purchases, sales, and supplier integrations for a growing shop.">
+  <title>StockDesk · Shop Operations</title>
+  <link rel="stylesheet" href="/static/styles.css"><script src="/static/app.js" defer></script><script src="/static/accounting.js" defer></script>
+</head>
+<body class="auth-locked">
+  <section id="auth-screen" aria-labelledby="auth-title">
+    <div class="auth-card"><a class="brand" href="#overview"><span class="brand-mark" aria-hidden="true">s.</span>StockDesk</a>
+      <p class="eyebrow">A CLEARER WAY TO RUN YOUR SHOP</p><h1 id="auth-title">Welcome back.</h1>
+      <p id="auth-description">Sign in to your workspace.</p>
+      <form id="auth-form"><label>Username<input name="username" autocomplete="username" minlength="3" maxlength="40" pattern="[A-Za-z0-9_.-]+" required></label>
+        <label>Password<input name="password" type="password" autocomplete="current-password" minlength="12" maxlength="128" required></label>
+        <p class="helper">Passwords use at least 12 characters.</p><p class="form-error" role="alert" hidden></p>
+        <button class="button primary" type="submit">Sign in</button>
+      </form><p class="helper">Local portfolio application · Data stays on this computer.</p>
+    </div>
+  </section>
+  <aside class="sidebar">
+    <a class="brand" href="#overview"><span class="brand-mark" aria-hidden="true">s.</span>StockDesk</a>
+    <div class="workspace"><span class="shop-icon" aria-hidden="true">▦</span><div>Your growing shop<small>Inventory & operations</small></div></div>
+    <p class="nav-label">WORKSPACE</p><nav aria-label="Main navigation"></nav>
+    <div class="sidebar-bottom"><strong id="staff-name"></strong><small id="staff-role"></small><button id="logout" class="text-button">Sign out</button></div>
+  </aside>
+  <main>
+    <div class="topbar"><span>YOUR SHOP, AT A GLANCE</span><span id="today"></span></div>
+    <header class="page-header"><div><p class="eyebrow">A LITTLE ORDER. A LOT MORE CLARITY.</p><h1 id="page-title">Shop overview</h1><p id="page-description"></p></div><div class="actions" id="header-actions"></div></header>
+    <div id="notice" role="status" aria-live="polite" hidden></div><div id="content"><p class="loading">Loading your workspace…</p></div>
+    <footer>StockDesk <span>Built around the everyday work of a growing shop.</span><a href="/docs" target="_blank" rel="noopener">API documentation ↗</a></footer>
+  </main>
+  <dialog id="work-dialog" class="large-dialog" aria-labelledby="dialog-title"></dialog>
+</body>
+</html>

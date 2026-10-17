@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product><sku>VENDOR-NB-01</sku><name>Recycled Paper Notebook</name><category>Stationery</category><price>95.00</price><cost>55.00</cost><stock>20</stock><low_stock_at>5</low_stock_at></product>
+  <product><sku>VENDOR-PEN-01</sku><name>Black Rollerball Pen</name><category>Stationery</category><price>35.00</price><cost>18.00</cost><stock>30</stock><low_stock_at>8</low_stock_at></product>
+</products>

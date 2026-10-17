@@ -1,0 +1,4 @@
+[
+  {"Item Code":"VENDOR-NB-01","Product Name":"Recycled Paper Notebook","Department":"Stationery","Sell Price":"95.00","Buy Price":"55.00","Available":20,"Reorder At":5},
+  {"Item Code":"VENDOR-PEN-01","Product Name":"Black Rollerball Pen","Department":"Stationery","Sell Price":"35.00","Buy Price":"18.00","Available":30,"Reorder At":8}
+]
